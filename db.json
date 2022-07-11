@@ -1,0 +1,235 @@
+{
+  "colleges": [
+    {
+      "collegeId": 1,
+      "collegeName": "IIT kharagpur",
+      "eventDetails": [
+        {
+          "eventName": "coding race",
+          "eventDescription": "Come and join the pool of programmers! and see yourself where you stand among them",
+          "eventId": 1,
+          "activitiesCount": 1,
+          "attendeeCount": 1,
+          "dateOfEvent": 1656388718987,
+          "bannerImages": [
+            "https://media.istockphoto.com/photos/lecturer-helps-scholar-with-project-advising-on-their-work-teacher-picture-id1363276612"
+          ],
+          "activities": [
+            {
+              "activityName": "explain problem statement",
+              "activityId": 1,
+              "attendeesCount": 2,
+              "dateOfActivity": 1656388718987,
+              "attendees": [
+                {
+                  "attendeeName": "sunil",
+                  "attendeeId": 1,
+                  "attendeeAssociateCount": 3,
+                  "attendeeAssociate": [
+                    {
+                      "associateName": "arun",
+                      "associateId": 1
+                    },
+                    {
+                      "associateName": "kedar",
+                      "associateId": 2
+                    },
+                    {
+                      "associateName": "umesh",
+                      "associateId": 3
+                    }
+                  ]
+                },
+                {
+                  "attendeeName": "sunil kumar",
+                  "attendeeId": 2,
+                  "attendeeAssociateCount": 2,
+                  "attendeeAssociate": [
+                    {
+                      "associateName": "prashanth",
+                      "associateId": 1
+                    },
+                    {
+                      "associateName": "Nuthan",
+                      "associateId": 2
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "activityName": "solve the problem",
+              "activityId": 2,
+              "attendeesCount": 2,
+              "dateOfActivity": 1656388718987,
+              "attendees": [
+                {
+                  "attendeeName": "suni",
+                  "attendeeId": 1,
+                  "attendeeAssociateCount": 1,
+                  "attendeeAssociate": [
+                    {
+                      "associateName": "ashok",
+                      "associateId": 1
+                    }
+                  ]
+                },
+                {
+                  "attendeeName": "sunil kumaraa",
+                  "attendeeId": 2,
+                  "attendeeAssociateCount": 2,
+                  "attendeeAssociate": [
+                    {
+                      "associateName": "aakash",
+                      "associateId": 1
+                    },
+                    {
+                      "associateName": "jayanth",
+                      "associateId": 2
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "eventName": "coding karo",
+          "eventDescription": "practice practice practice and see yourself where you stand among these coders",
+          "eventId": 2,
+          "activitiesCount": 1,
+          "attendeeCount": 1,
+          "dateOfEvent": 1656388718987,
+          "bannerImages": [
+            "https://media.istockphoto.com/photos/lecturer-helps-scholar-with-project-advising-on-their-work-teacher-picture-id1363276612"
+          ],
+          "activities": [
+            {
+              "activityName": "explain problem statement",
+              "activityId": 1,
+              "attendeesCount": 1,
+              "attendees": [
+                {
+                  "attendeeName": "sunil",
+                  "attendeeId": 1,
+                  "attendeeAssociateCount": 1,
+                  "attendeeAssociate": [
+                    {
+                      "associateName": "lala",
+                      "associateId": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "eventName": "coding raze",
+          "eventDescription": "Come and join the pool of programmers! and see yourself where you stand among them",
+          "eventId": 3,
+          "activitiesCount": 1,
+          "attendeeCount": 1,
+          "dateOfEvent": 1656388718987,
+          "bannerImages": [
+            "https://media.istockphoto.com/photos/lecturer-helps-scholar-with-project-advising-on-their-work-teacher-picture-id1363276612"
+          ],
+          "activities": [
+            {
+              "activityName": "explain problem statement",
+              "activityId": 1,
+              "attendeesCount": 1,
+              "attendees": [
+                {
+                  "attendeeName": "sunil",
+                  "attendeeId": 1,
+                  "attendeeAssociateCount": 1,
+                  "attendeeAssociate": [
+                    {
+                      "associateName": "lala",
+                      "associateId": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "collegeId": 2,
+      "collegeName": "IIT kanpur",
+      "eventDetails": [
+        {
+          "eventName": "coding battle",
+          "eventDescription": "Come and join the pool of programmers! and see yourself where you stand among them",
+          "eventId": 1,
+          "activitiesCount": 3,
+          "attendeeCount": 1,
+          "dateOfEvent": 1656388718987,
+          "bannerImages": [
+            "https://media.istockphoto.com/photos/lecturer-helps-scholar-with-project-advising-on-their-work-teacher-picture-id1363276612"
+          ],
+          "activities": [
+            {
+              "activityName": "explain problem statement",
+              "activityId": 1,
+              "attendeesCount": 1,
+              "attendees": [
+                {
+                  "attendeeName": "sunil",
+                  "attendeeId": 1,
+                  "attendeeAssociateCount": 1,
+                  "attendeeAssociate": [
+                    {
+                      "associateName": "lala",
+                      "associateId": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "collegeId": 3,
+      "collegeName": "IIT Bombay",
+      "eventDetails": [
+        {
+          "eventName": "coding race",
+          "eventDescription": "practice practice practice and see yourself where you stand among these coders",
+          "eventId": 1,
+          "activitiesCount": 2,
+          "attendeeCount": 1,
+          "dateOfEvent": 1656388718987,
+          "bannerImages": [
+            "https://media.istockphoto.com/photos/lecturer-helps-scholar-with-project-advising-on-their-work-teacher-picture-id1363276612"
+          ],
+          "activities": [
+            {
+              "activityName": "explain problem statement",
+              "activityId": 1,
+              "attendeesCount": 1,
+              "attendees": [
+                {
+                  "attendeeName": "sunil",
+                  "attendeeId": 1,
+                  "attendeeAssociateCount": 1,
+                  "attendeeAssociate": [
+                    {
+                      "associateName": "lala",
+                      "associateId": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
