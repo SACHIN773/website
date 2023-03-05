@@ -41,9 +41,9 @@ const Events = () => {
     }
   };
   return (
-    <Fragment>
+        <Fragment>
       <Navigationbar
-        colleges={colleges}
+        colleges=  {colleges}
         selected_Clg_Id={selected_Clg_Id}
         selected_Clg_Name={selected_Clg_Name}
         set_Selected_Clg_Name={set_Selected_Clg_Name}
@@ -53,7 +53,7 @@ const Events = () => {
         searchItems={searchItems}
         setIsSortAsc={setIsSortAsc}
         isSortAsc={isSortAsc}
-      />
+            />
       <div>
         {selected_Clg_Id != 0
           ? searchInput.length === 0
