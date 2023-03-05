@@ -41,7 +41,7 @@ const Events = () => {
     }
   };
   return (
-        <Fragment>
+        <Fragment  >
       <Navigationbar
         colleges=  {colleges}
         selected_Clg_Id={selected_Clg_Id}
